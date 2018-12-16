@@ -130,3 +130,6 @@ a:hover{
   text-decoration: none;
 }
 
+button {
+  outline: none !important;
+}
