@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class DestinationsService {
 
-  uri='http://localhost:4000';
+  uri='https://morning-temple-35412.herokuapp.com';
 
   constructor(private http: HttpClient) { }
 
